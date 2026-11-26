@@ -1,0 +1,31 @@
+body
+----header
+-------h1
+-------nav
+--------a
+
+main
+-----section(Top Story)
+-----article
+------h3
+------p
+
+------section(Latest news)
+-------article
+-------article
+
+-----------section(Technolgy)
+--------------article
+
+-----------section(sports)
+------------article
+
+
+--------aside
+----------h2
+------------ul
+-------------li
+
+-------------footer
+--------------------h2
+---------------------p
